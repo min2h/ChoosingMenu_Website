@@ -27,7 +27,7 @@
 <br><br><br>
 
 ### Q & A 메뉴 선정페이지 - Q & A menu selection page
-[출처] - "https://github.com/kwonay11/TodayEat"
+[출처] - https://github.com/kwonay11/TodayEat
 ![image](https://user-images.githubusercontent.com/91533318/205628169-809bb364-d1d9-4792-be40-203ef459d813.png)
 
 
