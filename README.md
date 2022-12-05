@@ -3,8 +3,7 @@
 ![image](https://user-images.githubusercontent.com/91533318/205628819-d059d708-15e1-4b22-a7db-91ffc82021e9.png)
 
 ## DATABASE - ERD
-![image](https://user-images.githubusercontent.com/91533318/205627471-ad586eb3-4873-4ddc-8216-a7addfd52d7d.png)
-<br><br><br>
+![image](https://user-images.githubusercontent.com/91533318/205637750-dff90a60-bc91-49d2-a878-af4c6703d9e9.png)
 
 ## 로그인페이지 - login page
 ![image](https://user-images.githubusercontent.com/91533318/205627682-054b84f8-7965-40af-9ad3-6718cf6dc0db.png)
