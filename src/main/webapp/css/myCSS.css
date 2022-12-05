@@ -1,0 +1,26 @@
+@charset "EUC-KR";
+*{
+	font-size: 25px;
+}
+div {
+	width: 70%;
+	background-color: rgba(209, 194, 165, 0.5);
+	margin: 0px auto;
+	text-align: center;
+}
+
+button {
+	width: 300px;
+	height: 300px;
+	font-size: 30px;
+}
+
+button:hover {
+	background-color: black;
+	color: red;
+}
+
+table {
+	margin: 0px auto;
+	text-align: center;
+}
