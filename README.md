@@ -40,5 +40,6 @@
 
 
 ### 맛집 커뮤니티 - Restaurant related community
+회원 계정(ID)에 연결된 게시물 수정 및 삭제 기능
 Ability to edit and delete posts linked to member account (ID)
 ![image](https://user-images.githubusercontent.com/91533318/205628640-c9f99167-5c63-44c5-aaf2-aa7869d739ec.png)
